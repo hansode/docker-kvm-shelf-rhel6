@@ -38,6 +38,11 @@ Connect to serial-port.
 $ telnet localhost 5099
 ```
 
+Login to box.
+
++ user `centos`
++ pass `centos`
+
 Links
 -----
 
