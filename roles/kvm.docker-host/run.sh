@@ -9,7 +9,7 @@
 name=docker-host
 cpu_type=host
 brname=vboxbr0
-mem_size=1024
+mem_size=$((1024 * 2))
 cpu_num=1
 vnc_addr=127.0.0.1
 vnc_port=1099
